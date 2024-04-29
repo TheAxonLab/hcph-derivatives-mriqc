@@ -1,1 +1,2 @@
 d87ae33e-feb8-4731-9c66-506f808c0eaa archive-id=3aef55fb-cf57-43e2-b969-c9ccf128845d autoenable=true encryption=none externaltype=ora name=ria-storage type=external url=ria+ssh://oesteban@curnagl.dcsr.unil.ch:/nas/FAC/FBM/DNF/oesteban/hcph/D2c/derivatives/mriqc/ timestamp=1714064991.578439s
+fa721100-a819-4307-b3b5-33e62d5e44bf autoenable=true location=https://gin.g-node.org/TheAxonLab/hcph-derivatives-mriqc.git name=gin-storage type=git timestamp=1714392613.805736s
