@@ -8,7 +8,7 @@ How to download this dataset (requires DataLad):
 datalad install https://github.com/TheAxonLab/hcph-derivatives-mriqc.git
 ```
 
-An online copy of this dataset is available at https://mriqc.s3.amazonaws.com/index.html#HCPh/
+An online copy of this dataset is available at https://mriqc.s3.amazonaws.com/index.html#hcph/
 
 ## When using this dataset please cite our work:
 
